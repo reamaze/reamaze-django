@@ -1,0 +1,4 @@
+include README.md
+
+recursive-include reamaze *.py
+recursive-include reamaze/templates *.html
